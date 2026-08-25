@@ -1,32 +1,223 @@
-![git hub](https://github.com/user-attachments/assets/74177d67-408b-4db6-82e8-999a8499dd16)
+# 👋 Hi, I'm Rakesh R
 
+### 🚀 Full Stack Developer | SaaS & AI Enthusiast | Software Engineer
 
-
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Rakesh R</h1>
-<h3 align="center">A passionate Software Engineer, developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh200416&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh200416" /> </p>
-
-- 🌱 I’m currently learning **html,css,javascript,java,python,c,c++,**
-
-- 👨‍💻 my personal website  [https://rakesh200416.github.io/](https://rakesh200416.github.io/)
-
-- 📫 How to reach me **rakiravi44@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rakesh. r
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh r" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;SaaS+%7C+AI+%7C+REST+APIs;React+%7C+Node.js+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Rakesh200416">
+    <img src="https://komarev.com/ghpvc/?username=rakesh200416&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Rakesh200416?tab=followers">
+    <img src="https://img.shields.io/github/followers/Rakesh200416?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh200416&show_icons=true&locale=en&layout=compact" alt="rakesh200416" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh200416&show_icons=true&locale=en" alt="rakesh200416" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh200416&" alt="rakesh200416" /></p>
+I'm a **Full Stack Developer** with professional experience building and maintaining scalable web applications and **multi-tenant SaaS platforms**.
+
+* 🔭 Currently working on **NeuroLXP**, a multi-tenant LMS/LXP SaaS platform
+* 💼 Full Stack Developer at **PR|GEEQ Global Solutions**
+* 🌱 Experienced in **React.js, Node.js, TypeScript, Python, Java & SQL**
+* 🤖 Interested in **AI/LLM integrations and AI-powered applications**
+* 🏗️ Experienced in **REST APIs, product architecture, DevOps & production deployments**
+* 🧪 Familiar with **automated testing, debugging and API testing**
+* 🏆 **1st Place – Fusion Techathon 3.0**
+* 🎓 B.E. in **Information Science & Engineering**
+* 📍 Bengaluru, Karnataka, India
+* 💡 I enjoy turning ideas into **real-world, production-ready products**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cpp,php" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### 🤖 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**AI / Data:** LLM Integration • Pandas • NumPy • Matplotlib • Power BI • Tableau
+
+### 🔧 Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jenkins" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 EasyCare — AI Health Monitoring System
+
+AI-powered healthcare and telemedicine platform featuring:
+
+* Real-time health monitoring
+* AI-assisted diagnostics
+* Video consultations
+* AI chatbot
+* Multilingual voice alerts
+* Real-time patient management
+
+🏆 **1st Place – Fusion Techathon 3.0**
+
+🔗 [View Project](https://github.com/Rakesh200416/EasyCare)
+
+---
+
+### 🍔 FoodieHub — Food Delivery Platform
+
+Full-stack food delivery and e-commerce platform featuring:
+
+* Restaurant discovery
+* Real-time order tracking
+* Secure payments
+* AI-powered recommendations
+* Loyalty rewards system
+
+🏆 **1st Place – Project Exhibition**
+
+🔗 [View Project](https://github.com/Rakesh200416/FOODIEHUB)
+
+---
+
+### 💼 HireHub — Smart Job Platform
+
+AI-powered job seeking and hiring platform featuring:
+
+* Role-based authentication
+* AI resume screening
+* Application tracking
+* Employer dashboard
+* HR analytics
+
+🔗 [View Project](https://github.com/Rakesh200416/HireHub)
+
+---
+
+### 📝 Online Smart Test Centre
+
+AI-powered examination platform featuring:
+
+* Automated online examinations
+* AI question randomization
+* Automated grading
+* Real-time proctoring
+* Exam integrity validation
+* Performance analytics
+
+🔗 [View Project](https://github.com/Rakesh200416/Smart-Test-Center)
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer — PR|GEEQ Global Solutions
+
+**Feb 2026 – Present**
+
+Working on **NeuroLXP**, a multi-tenant LMS/LXP SaaS platform.
+
+* Product design & technical architecture
+* Frontend development
+* Feature implementation
+* Production infrastructure
+* DevOps & deployment pipelines
+* Technical documentation
+* Application maintenance & scalability
+
+### Java Full Stack Intern — Zidio Development
+
+**Apr 2025 – May 2025**
+
+Worked with Java, Spring Boot, Hibernate, MySQL, React.js and Angular while contributing to full-stack applications, API testing, debugging and deployment.
+
+### Full Stack Web Development Intern — Edu-Versity
+
+**Mar 2025 – May 2025**
+
+Worked with the MERN stack, REST APIs, automated testing, code reviews and application deployment.
+
+---
+
+## 🏆 Achievements
+
+🥇 **1st Place — Fusion Techathon 3.0**
+AI-powered EasyCare healthcare platform
+
+🥇 **1st Place — Project Exhibition**
+AI-powered FoodieHub platform
+
+🥈 **2nd Place — Mini-Project Competition**
+Scalable full-stack web application
+
+🏅 **Top 20% — AINCAT**
+Naukri.com Career Assessment Test
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakesh200416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh200416&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rakesh200416&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh200416&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakesh-r-7ba9a6284/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Rakesh200416">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>💻 Build • Learn • Solve • Repeat 🚀</b>
+</p>
